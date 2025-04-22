@@ -40,7 +40,8 @@ That insight created Concept Automation.
 
 ## 🔍 HOW IT WORKS  
 Concept Automation reverse-engineers a designer’s mental model using modular logic blocks.
-![Alt Text](image.png)
+---
+![Alt Text](shoe_concept_design.png)
 ### **Step-by-step breakdown (see flowchart):**
 
 1. **Input Persona & Archetype**  
@@ -76,6 +77,12 @@ Concept Automation reverse-engineers a designer’s mental model using modular l
    - Prototyping-ready packages  
 
 ---
+### OUTPUTS
+![example_of_shoe](output_1.png)
+![example_of_shoe](output_2.png)
+![example_of_shoe](output_3.png)
+![llm_output](output_4.png)
+![llm_shoe_concept](output_5.png)
 
 ##  WHY THIS WORKS  
 Because it’s not “AI for design” — it’s **Design Logic as Code**.
@@ -113,13 +120,6 @@ Because it’s not “AI for design” — it’s **Design Logic as Code**.
 
 ## ✅ STATUS: Working Prototype  
 Concept System is currently producing design sketch variations and working with Firefly-enhanced models for final detailing.
-
----
-
-## 📎 FILES INCLUDED
-- `/concept_system_flowchart.png` – Full process map  
-- `/example_sketch_outputs/` – Sample results  
-- `/prompt_templates/` – For persona/emotion input  
 
 ---
 
