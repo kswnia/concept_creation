@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="image(1).psd.png" width="600"/>
+</p>
+
+
 # 🧠 CONCEPT AUTOMATION — Future of Footwear Design
 
 ## TL;DR  
