@@ -83,6 +83,8 @@ Concept Automation reverse-engineers a designer’s mental model using modular l
 ![example_of_shoe](output_3.png)
 ![llm_output](output_4.png)
 ![llm_shoe_concept](output_5.png)
+![llm_shoe_concept](output_6.png)
+![llm_shoe_concept](output_7.png)
 
 ##  WHY THIS WORKS  
 Because it’s not “AI for design” — it’s **Design Logic as Code**.
